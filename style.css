@@ -1,0 +1,31 @@
+h2{text-align: center;
+}
+
+body{text-align: center;
+}
+
+table{display: flex;
+justify-content: center;
+}
+
+a{text-decoration: none;
+}
+
+p:hover{
+    color: red;
+    background-color: black;
+    text-decoration: underline;
+}
+
+hr{
+    margin-bottom: 10vh;
+}
+
+h6{
+    position: relative;
+    
+    left: 20vh;
+}
+p{font-size: 50px;
+}
+
